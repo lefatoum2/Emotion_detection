@@ -40,3 +40,7 @@ Après la finalisation du projet avec son rapport, une présentation ppt pourra 
 - Elle permet aussi d'associer un emoji qui représente l'émotion de la personne dans l'image/vidéo
 
 - Finalement, elle va lui poser des questions si l'émotion est négative (ex. pourquoi es-tu triste, ...), si l'émotion est positive elle va la féliciter.
+
+# Résultats
+
+J'ai limité à 35 Epoch et j'ai obtenu une précision de 72 % pour le modèle.
