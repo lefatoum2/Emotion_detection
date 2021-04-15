@@ -9,7 +9,7 @@ from tensorflow.keras.preprocessing import image as SImage
 from keras.preprocessing.image import img_to_array
 from tensorflow.keras.models import load_model
 from keras.models import model_from_json
-DEMO_IMAGE = 'happy.jpg'
+DEMO_IMAGE = 'pexels-nappy-3460134.jpg'
 
 classifier = model_from_json(open("facial_expression_model_structure.json", "r").read())
 classifier.load_weights('facial_expression_model_weights.h5') #load weights
