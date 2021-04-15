@@ -43,6 +43,15 @@ Après la finalisation du projet avec son rapport, une présentation ppt pourra 
 
 # Choix du modèle
 
+# Lancement des applications
+
+```
+streamlit run photo_detect_emotions.py
+
+streamlit run webcam_detect_emotions.py
+
+```
+
 # Résultats
 
 J'ai limité à 100 Epoch et j'ai obtenu une précision de 83 % pour le modèle.
