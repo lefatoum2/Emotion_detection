@@ -41,9 +41,11 @@ Après la finalisation du projet avec son rapport, une présentation ppt pourra 
 
 - Finalement, elle va lui poser des questions si l'émotion est négative (ex. pourquoi es-tu triste, ...), si l'émotion est positive elle va la féliciter.
 
+# Choix du modèle
+
 # Résultats
 
-J'ai limité à 35 Epoch et j'ai obtenu une précision de 72 % pour le modèle.
+J'ai limité à 100 Epoch et j'ai obtenu une précision de 83 % pour le modèle.
 
 
 ![img1](./Emotion_img/2021-04-14-145430.png)
