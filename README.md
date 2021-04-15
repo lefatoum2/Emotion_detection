@@ -45,6 +45,7 @@ Après la finalisation du projet avec son rapport, une présentation ppt pourra 
 
 J'ai limité à 35 Epoch et j'ai obtenu une précision de 72 % pour le modèle.
 
+
 [img1](./Emotion_img/2021-04-14-145430.png)
 [img2](./Emotion_img/2021-04-14-145530.png)
 [img3](./Emotion_img/2021-04-14-1455306.png)
