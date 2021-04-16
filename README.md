@@ -4,8 +4,9 @@ Téléchargement de FER2013.csv :
 ```
 pip install kaggle
 
-kaggle datasets download -d deadskull7/fer2013
 ```
+https://www.kaggle.com/deadskull7/fer2013?select=fer2013.csv
+
 # Contexte du projet
 
 Les expressions du visage peuvent naturellement servirent à évaluer la satisfaction d’un client aux prises avec un service après-vente ou à face à un produit récemment acquis dont il s’agit de comprendre le fonctionnement. On peut encore mentionner les applications suivantes :
