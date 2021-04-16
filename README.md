@@ -64,6 +64,6 @@ J'ai limité à 100 Epoch et j'ai obtenu une précision de 83 % pour le modèle.
 
 ![img1](./Emotion_img/2021-04-14-145430.png)
 ![img2](./Emotion_img/2021-04-14-145530.png)
-![img3](./Emotion_img/2021-04-14-1455306.png)
+
 ![img4](./Emotion_img/2021-04-14-150018.png)
 ![img5](./Emotion_img/2021-04-14-150452.png)
