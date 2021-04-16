@@ -49,8 +49,12 @@ Après la finalisation du projet avec son rapport, une présentation ppt pourra 
 - Finalement, elle va lui poser des questions si l'émotion est négative (ex. pourquoi es-tu triste, ...), si l'émotion est positive elle va la féliciter.
 
 # Choix du modèle
+
 Le CNN est idéal pour faire une classification d'image.
-6 couches couches de convolutions
+
+Description :
+6 couches  de convolutions(Conv2D) avec 6 filtres(filters), 3 couches de pooling(MaxPooling2D) , 7 couches de normalisation(BatchNormalization), une couche de Flatten(),4 Dropout pour éviter le overfitting, la fonction Softmax utilisée à la fin du CNN pour la classification.
+
 La convolution(Conv2D) est la première couche à extraire des entités d'une image d'entrée. La convolution préserve la relation entre les pixels en apprenant les caractéristiques de l'image à l'aide de petits carrés de données d'entrée.La convolution d'une image avec différents filtres peut effectuer des opérations telles que la détection des contours, le flou et la netteté en appliquant des filtres. Nous avons choisi la fonction d'activation Elu qui semble la plus efficace dans ce cas.
 Avec une accuracy de 83 % , le choix de 7 couches avec ,sur la dernière couche, la fonction d'activation Softmax pour la classification semble vraiment un bon compromis.
 
