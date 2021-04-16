@@ -2,6 +2,8 @@
 Téléchargement de FER2013.csv :
 
 ```
+pip install kaggle
+
 kaggle datasets download -d deadskull7/fer2013
 ```
 # Contexte du projet
