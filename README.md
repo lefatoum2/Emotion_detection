@@ -45,6 +45,11 @@ Après la finalisation du projet avec son rapport, une présentation ppt pourra 
 
 # Lancement des applications
 
+Installation:
+```
+pip install -r requirements.txt
+```
+Lancer:
 ```
 streamlit run photo_detect_emotions.py
 
