@@ -10,6 +10,8 @@ https://www.kaggle.com/deadskull7/fer2013?select=fer2013.csv
 ```
 !kaggle datasets download -d deadskull7/fer2013
 ```
+Ne pas oublier de télécherger votre clé situé dans Your profile -> Account et mettre dans votre dossier ./kaggle
+![img6](./Emotion_img/145838.png)
 # Contexte du projet
 
 Les expressions du visage peuvent naturellement servirent à évaluer la satisfaction d’un client aux prises avec un service après-vente ou à face à un produit récemment acquis dont il s’agit de comprendre le fonctionnement. On peut encore mentionner les applications suivantes :
@@ -85,4 +87,4 @@ J'ai limité à 100 Epoch et j'ai obtenu une précision de 83 % pour le modèle.
 
 ![img4](./Emotion_img/2021-04-14-150018.png)
 ![img5](./Emotion_img/2021-04-14-150452.png)
-![img5](./Emotion_img/2021-04-18-071028.png)
+![img6](./Emotion_img/2021-04-18-071028.png)
