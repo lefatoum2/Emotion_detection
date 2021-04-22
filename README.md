@@ -10,7 +10,7 @@ https://www.kaggle.com/deadskull7/fer2013?select=fer2013.csv
 ```
 !kaggle datasets download -d deadskull7/fer2013
 ```
-Ne pas oublier de télécherger votre clé situé dans Your profile -> Account et mettre dans votre dossier ./kaggle
+Ne pas oublier de télécharger votre clé situé dans Your profile -> Account et mettre dans votre dossier ./kaggle
 ![img6](./Emotion_img/145838.png)
 # Contexte du projet
 
