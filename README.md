@@ -53,7 +53,7 @@ Après la finalisation du projet avec son rapport, une présentation ppt pourra 
 
 # Choix du modèle
 
-Le CNN est idéal pour faire une classification d'image.
+J'ai opté pour un CNN classique proche du type LeNet pour cette classification.
 
 Description :
 6 couches  de convolutions(Conv2D) avec 6 filtres(filters), 3 couches de pooling(MaxPooling2D) , 7 couches de normalisation(BatchNormalization), une couche de Flatten(),4 Dropout pour éviter le overfitting, la fonction Softmax utilisée à la fin du CNN pour la classification.
